@@ -1,0 +1,10 @@
+{
+	"name": "from",
+	"authors": [
+		"Daniel Nielsen",
+		"Anton Fediushin"
+	],
+	"description": "A new import idiom",
+	"copyright": "Copyright © 2018, Daniel Nielsen",
+	"license": "Public Domain"
+}
