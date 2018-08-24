@@ -1,4 +1,4 @@
-module from;
+module f;
 
 template from(string moduleName) {
 	mixin("import from = " ~ moduleName ~ ";");
